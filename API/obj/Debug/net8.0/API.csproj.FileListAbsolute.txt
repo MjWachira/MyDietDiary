@@ -33,3 +33,12 @@ C:\Development\MyDietDiary\API\obj\Debug\net8.0\refint\API.dll
 C:\Development\MyDietDiary\API\obj\Debug\net8.0\API.pdb
 C:\Development\MyDietDiary\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Development\MyDietDiary\API\obj\Debug\net8.0\ref\API.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\ClosedXML.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\RBush.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Development\MyDietDiary\API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Development\MyDietDiary\API\obj\Debug\net8.0\API.sourcelink.json
