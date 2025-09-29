@@ -1,7 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Development\\MyDietDiary\\API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\services\\excelstorageservice\\excelstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:services\\excelstorageservice\\excelstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\services\\excelstorageservice\\iexcelstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:services\\excelstorageservice\\iexcelstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\controllers\\weightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:controllers\\weightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\services\\dietservice\\idietservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:services\\dietservice\\idietservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\services\\dietservice\\dietservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:services\\dietservice\\dietservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\dtos\\weightentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:dtos\\weightentrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:dtos\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\dtos\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:dtos\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\models\\weightentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:models\\weightentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|c:\\development\\mydietdiary\\api\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF4C476-9C5D-4108-A9FA-803DFC44965A}|API.csproj|solutionrelative:models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,19 +70,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfilesController.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Controllers\\ProfilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfilesController.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Controllers\\ProfilesController.cs",
+              "RelativeToolTip": "Controllers\\ProfilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:33:33.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeightsController.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Controllers\\WeightsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeightsController.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Controllers\\WeightsController.cs",
+              "RelativeToolTip": "Controllers\\WeightsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:32:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MealsController.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Controllers\\MealsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MealsController.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Controllers\\MealsController.cs*",
+              "RelativeToolTip": "Controllers\\MealsController.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:31:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DietService.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Services\\DietService\\DietService.cs",
+              "RelativeDocumentMoniker": "Services\\DietService\\DietService.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Services\\DietService\\DietService.cs",
+              "RelativeToolTip": "Services\\DietService\\DietService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:22:34.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDietService.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Services\\DietService\\IDietService.cs",
+              "RelativeDocumentMoniker": "Services\\DietService\\IDietService.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Services\\DietService\\IDietService.cs",
+              "RelativeToolTip": "Services\\DietService\\IDietService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:21:56.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelStorageService.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Services\\ExcelStorageService\\ExcelStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelStorageService\\ExcelStorageService.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Services\\ExcelStorageService\\ExcelStorageService.cs*",
+              "RelativeToolTip": "Services\\ExcelStorageService\\ExcelStorageService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:18:48.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExcelStorageService.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Services\\ExcelStorageService\\IExcelStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\ExcelStorageService\\IExcelStorageService.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Services\\ExcelStorageService\\IExcelStorageService.cs",
+              "RelativeToolTip": "Services\\ExcelStorageService\\IExcelStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:15:44.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\DTOs\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProfileDto.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\DTOs\\ProfileDto.cs",
+              "RelativeToolTip": "DTOs\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:08:53.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeightEntryDto.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\DTOs\\WeightEntryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\WeightEntryDto.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\DTOs\\WeightEntryDto.cs",
+              "RelativeToolTip": "DTOs\\WeightEntryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:05:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MealDto.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\DTOs\\MealDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MealDto.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\DTOs\\MealDto.cs",
+              "RelativeToolTip": "DTOs\\MealDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T17:04:19.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "Models\\Profile.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Models\\Profile.cs",
+              "RelativeToolTip": "Models\\Profile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:58:48.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeightEntry.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Models\\WeightEntry.cs",
+              "RelativeDocumentMoniker": "Models\\WeightEntry.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Models\\WeightEntry.cs",
+              "RelativeToolTip": "Models\\WeightEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:57:48.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "Models\\Meal.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Models\\Meal.cs",
+              "RelativeToolTip": "Models\\Meal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:56:27.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T16:55:16.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Development\\MyDietDiary\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API.csproj",
+              "ToolTip": "C:\\Development\\MyDietDiary\\API\\API.csproj*",
+              "RelativeToolTip": "API.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T16:52:28.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             }
           ]
         }

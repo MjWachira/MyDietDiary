@@ -17,6 +17,7 @@ builder.Services.AddSingleton<IExcelStorageService>(sp =>
     var filePath = Path.Combine(AppContext.BaseDirectory, "mydiet.xlsx");
     return new ExcelStorageService(filePath);
 });
+
 builder.Services.AddSingleton<IDietService, DietService>();
 
 var app = builder.Build();
