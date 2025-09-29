@@ -22,11 +22,11 @@ builder.Services.AddSingleton<IDietService, DietService>();
 
 var app = builder.Build();
 
-if (app.Environment.IsDevelopment())
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "MyDietDiary API V1");
+});
 
 app.UseRouting();
 app.UseAuthorization();
