@@ -1,6 +1,6 @@
 # MyDietDiary
 
-API
-UI
-APK
-DB
+- API
+- UI
+- APK
+- DB
