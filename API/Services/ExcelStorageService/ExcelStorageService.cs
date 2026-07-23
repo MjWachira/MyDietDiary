@@ -185,6 +185,33 @@ namespace API.Services.ExcelStorageService
             }
         }
 
+        public IEnumerable<Profile> ReadProfiles()
+        {
+            lock (_lock)
+            {
+                using var wb = new XLWorkbook(_filePath);
+                var ws = wb.Worksheet(ProfilesSheet);
+                var rows = ws.RowsUsed()?.Skip(1) ?? Enumerable.Empty<IXLRow>();
+                var list = new List<Profile>();
+
+                foreach (var r in rows)
+                {
+                    try
+                    {
+                        var name = r.Cell(1).GetString();
+                        var target = (int)r.Cell(2).GetDouble();
+                        list.Add(new Profile { ProfileName = name, TargetCalories = target });
+                    }
+                    catch
+                    {
+                        // skip malformed rows
+                    }
+                }
+
+                return list;
+            }
+        }
+
         public Profile GetProfile(string profileName)
         {
             lock (_lock)

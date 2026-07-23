@@ -12,6 +12,7 @@ namespace API.Services.IServices
         void AddWeight(WeightEntry w);
         void RemoveWeight(Guid id);
 
+        IEnumerable<Profile> ReadProfiles();
         Profile GetProfile(string profileName);
         void SetProfile(Profile profile);
     }

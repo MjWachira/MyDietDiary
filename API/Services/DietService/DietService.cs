@@ -18,6 +18,8 @@ namespace API.Services.DietService
             return _store.ReadMeals().Where(m => string.Equals(m.Profile, profile ?? "default", StringComparison.OrdinalIgnoreCase));
         }
 
+        public IEnumerable<Meal> GetAllMeals() => _store.ReadMeals();
+
         public Meal AddMeal(MealDto dto)
         {
             var meal = new Meal
@@ -40,6 +42,8 @@ namespace API.Services.DietService
             return _store.ReadWeights().Where(w => string.Equals(w.Profile, profile ?? "default", StringComparison.OrdinalIgnoreCase));
         }
 
+        public IEnumerable<WeightEntry> GetAllWeights() => _store.ReadWeights();
+
         public WeightEntry AddWeight(WeightEntryDto dto)
         {
             var w = new WeightEntry
@@ -54,6 +58,8 @@ namespace API.Services.DietService
         }
 
         public void DeleteWeight(Guid id) => _store.RemoveWeight(id);
+
+        public IEnumerable<Profile> GetProfiles() => _store.ReadProfiles();
 
         public Profile GetProfile(string profile)
         {
